@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SyreniaPloto
 - 👀 I’m interested in the latest exciting technical trends and open-source software (and the sport itself).
 - 🌱 I’m currently learning or working on philosophy and subculture studies.
-- 📫 You can reach me by radserverip@gmail.com
 - ⚡ Fun fact: Yuri is the best thing that we can think and talk in the world
 
 <!---
